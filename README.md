@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=400&text=Welcome&desc=Gyeongmin's%20GitHub%20Profile&descSize=30)
+![header](https://capsule-render.vercel.app/api?height=400&text=Welcome&desc=Gyeongmin's%20GitHub%20Profile&descSize=10&descAlign=100)
 
 
 <!--
