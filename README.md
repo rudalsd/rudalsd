@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=%20Welcome%20&height=300&fontSize=100&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=transparent)
 
 <!--
 **rudalsd/rudalsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
