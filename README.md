@@ -1,8 +1,6 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome&desc=Gyeongmin's%20GitHub%20Profile&descSize=15&descAlign=60&height=200&fontColor=ffffff&fontAlignY=35&descAlignY=50" />
     
-<span style="color:red">내용</span>
-    
 👋 Hi there! I'm **Embedded** **developer** using Linux.😄
 
 I enjoy dancing, hiking and gaming.:video_game:
@@ -28,6 +26,10 @@ I enjoy dancing, hiking and gaming.:video_game:
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+</div>
+
+<div>
+    <span style="color:red">내용</span>
 </div>
 <!--
 **rudalsd/rudalsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
