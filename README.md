@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome&desc=Gyeongmin's%20GitHub%20Profile&descSize=15&descAlign=60&height=200&fontColor=ffffff&fontAlignY=35&descAlignY=50" />
     
-👋 Hi there! I'm <strong style="font-color : black">Embedded developer</strong> using Linux.😄
+👋 Hi there! I'm <strong style="color:black;">Embedded developer</strong> using Linux.😄
 
 I enjoy dancing, hiking and gaming.:video_game:
 </div>
