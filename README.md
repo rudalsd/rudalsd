@@ -1,17 +1,15 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome&desc=Gyeongmin's%20GitHub%20Profile&descSize=15&descAlign=60&height=200&fontColor=ffffff&fontAlignY=35&descAlignY=50" />
-</div>
-
-
-<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome&desc=Gyeongmin's%20GitHub%20Profile&descSize=15&descAlign=60&height=200&fontColor=ffffff&fontAlignY=35&descAlignY=50" />
+    <br>
+    <br>
     :cloud:SNS:cloud:
     <br>
     <a href="https://www.instagram.com/gyeongmin_kwon___/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
     </a>
-</div>
-
-<div align="center">
+    <br>
+    <br>
+    <br>
     :cloud:Tech Stack:cloud:
     <br>
     :bulb:Main
@@ -29,6 +27,10 @@
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+</div>
+
+<div align="center">
+    
 </div>
 
 
