@@ -2,12 +2,24 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome&desc=Gyeongmin's%20GitHub%20Profile&descSize=15&descAlign=60&height=200&fontColor=ffffff&fontAlignY=35&descAlignY=50" />
 </div>
 
+
 <div align="center">
     :cloud:SNS:cloud:
     <br>
     <a href="https://www.instagram.com/gyeongmin_kwon___/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
     </a>
+</div>
+
+<div align="center">
+    :cloud:Tech Stack:cloud:
+    <br>
+    :bulb:Main
+    <br>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+    <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
+    <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
+    <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
 </div>
 
 
