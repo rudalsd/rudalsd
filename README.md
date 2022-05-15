@@ -4,28 +4,21 @@
 👋 Hi there! I'm <b style="color:red;">Embedded developer</b> using Linux.😄
 
 I enjoy dancing, hiking and gaming.:video_game:
-    <br>
-    <br>
+    <br><br><br><br>
     :cloud:SNS:cloud:
-    <br>
-    <br>
+    <br><br>
     <a href="https://www.instagram.com/gyeongmin_kwon___/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
     </a>
-    <br>
-    <br>
-    <br>
+    <br><br><br>
     :books:Tech Stack:books:
-    <br>
-    <br>
+    <br><br>
     :bulb:Main
     <br>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
-    <br>
-    <br>
-    <br>
+    <br><br><br>
     :bulb:used at least once
     <br>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
