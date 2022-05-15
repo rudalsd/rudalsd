@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome&desc=Gyeongmin's%20GitHub%20Profile&descSize=15&descAlign=60&height=200&fontColor=ffffff&fontAlignY=35&descAlignY=50)
 
+
 <a href="https://www.instagram.com/gyeongmin_kwon___/">
+    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
     <img 
-        src="http://img.shields.io/badge/--E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/gyeongmin_kwon___/"
+        src="http://img.shields.io/badge/-gyeongmin_kwon___-E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/gyeongmin_kwon___/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
