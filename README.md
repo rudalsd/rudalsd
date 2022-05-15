@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome&desc=Gyeongmin's%20GitHub%20Profile&descSize=15&descAlign=60&height=200&fontColor=ffffff&fontAlignY=35&descAlignY=50" />
     <br>
     <br>
-    <a>👋 Hi there! I'm <h5>Embedded developer</h5> using Linux.😄</a>
+    👋 Hi there! I'm **Embedded developer** using Linux.😄
         <br>
         I enjoy dancing, hiking and gaming.:video_game:
     <br>
