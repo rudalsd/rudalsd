@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome&desc=Gyeongmin's%20GitHub%20Profile&descSize=15&descAlign=60&height=200&fontColor=ffffff&fontAlignY=35&descAlignY=50)
 
 
-<a href="https://www.instagram.com/gyeongmin_kwon___/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+
+<a href="https://www.instagram.com/gyeongmin_kwon___/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
 
 👋 Hi there! I'm Embedded developer using Linux.😄
