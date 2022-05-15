@@ -1,10 +1,11 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome&desc=Gyeongmin's%20GitHub%20Profile&descSize=15&descAlign=60&height=200&fontColor=ffffff&fontAlignY=35&descAlignY=50" />
-</div>
 
     👋 Hi there! I'm **Embedded developer** using Linux.😄
 
     I enjoy dancing, hiking and gaming.:video_game:
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome&desc=Gyeongmin's%20GitHub%20Profile&descSize=15&descAlign=60&height=200&fontColor=ffffff&fontAlignY=35&descAlignY=50" />
+</div>
 
 <div align="center">
     <br>
