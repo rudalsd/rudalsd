@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome&desc=Gyeongmin's%20GitHub%20Profile&descSize=15&descAlign=60&height=200&fontColor=ffffff&fontAlignY=35&descAlignY=50" />
     
-👋 Hi there! I'm <span style="background-color:#fff5b1">Embedded developer</span> using Linux.😄
+<div>👋 Hi there! I'm <span style="background-color:#fff5b1">Embedded developer</span> using Linux.😄</div>
 
 I enjoy dancing, hiking and gaming.:video_game:
     <br><br><br><br>
