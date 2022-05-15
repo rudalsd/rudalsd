@@ -2,10 +2,10 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome&desc=Gyeongmin's%20GitHub%20Profile&descSize=15&descAlign=60&height=200&fontColor=ffffff&fontAlignY=35&descAlignY=50" />
 </div>
 
-👋 Hi there! I'm **Embedded** **developer** using Linux.😄
-{: .text-center }
+<center>👋 Hi there! I'm Embedded developer using Linux.😄</center>
+
 I enjoy dancing, hiking and gaming.:video_game:
-{: .text-center }
+
 <div align="center">
     <br>
     <br>
