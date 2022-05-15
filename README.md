@@ -1,5 +1,6 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome&desc=Gyeongmin's%20GitHub%20Profile&descSize=15&descAlign=60&height=200&fontColor=ffffff&fontAlignY=35&descAlignY=50)
-
+</div>
 <div align="center">
     :cloud:SNS:cloud:
     <br>
