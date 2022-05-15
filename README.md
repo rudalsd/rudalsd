@@ -3,9 +3,9 @@
 </div>
 
 👋 Hi there! I'm **Embedded** **developer** using Linux.😄
-
+{: .text-center }
 I enjoy dancing, hiking and gaming.:video_game:
-
+{: .text-center }
 <div align="center">
     <br>
     <br>
