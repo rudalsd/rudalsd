@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome&desc=Gyeongmin's%20GitHub%20Profile&descSize=15&descAlign=60&height=200&fontColor=ffffff&fontAlignY=35&descAlignY=50)
 
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rudalsd)](https://solved.ac/rudalsd)
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudalsd)](https://solved.ac/rudalsd)
 <!--
 **rudalsd/rudalsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
