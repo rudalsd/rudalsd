@@ -4,9 +4,6 @@
 👋 Hi there! I'm <b style="color:red;">Embedded developer</b> using Linux.😄
 
 I enjoy dancing, hiking and gaming.:video_game:
-</div>
-
-<div align="center">
     <br>
     <br>
     :cloud:SNS:cloud:
