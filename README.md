@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome&desc=Gyeongmin's%20GitHub%20Profile&descSize=15&descAlign=60&height=200&fontColor=ffffff&fontAlignY=35&descAlignY=50)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudalsd)](https://solved.ac/rudalsd)
+/instagram/url?url = https://www.instagram.com/gyeongmin_kwon___/
+
+
+👋 Hi there! I'm Embedded developer using Linux.😄
+
+I enjoy dancing, hiking and gaming.
 <!--
 **rudalsd/rudalsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
