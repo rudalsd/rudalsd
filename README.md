@@ -2,6 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome&desc=Gyeongmin's%20GitHub%20Profile&descSize=15&descAlign=60&height=200&fontColor=ffffff&fontAlignY=35&descAlignY=50" />
     <br>
     <br>
+        👋 Hi there! I'm Embedded developer using Linux.😄
+        <br>
+        I enjoy dancing, hiking and gaming.:video_game:
+    <br>
+    <br>
     :cloud:SNS:cloud:
     <br>
     <br>
@@ -34,13 +39,6 @@
 <div align="center">
     
 </div>
-
-
-
-
-👋 Hi there! I'm Embedded developer using Linux.😄
-
-I enjoy dancing, hiking and gaming.:video_game:
 <!--
 **rudalsd/rudalsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
