@@ -1,4 +1,4 @@
-<div align="center" style="color:red;">
+<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome&desc=Gyeongmin's%20GitHub%20Profile&descSize=15&descAlign=60&height=200&fontColor=ffffff&fontAlignY=35&descAlignY=50" />
     
 👋 Hi there! I'm <b>Embedded developer</b> using Linux.😄
