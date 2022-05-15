@@ -2,10 +2,7 @@
 
 
 <a href="https://www.instagram.com/gyeongmin_kwon___/">
-    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-    <img 
-        src="http://img.shields.io/badge/-gyeongmin_kwon___-E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/gyeongmin_kwon___/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img src="https://img.shields.io/badge/-gyeongmin_kwon___-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
 👋 Hi there! I'm Embedded developer using Linux.😄
