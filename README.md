@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome&desc=Gyeongmin's%20GitHub%20Profile&descSize=15&descAlign=60&height=200&fontColor=ffffff&fontAlignY=35&descAlignY=50)
 
-<div style="text-align : center">
-    <p>:cloud:SNS:cloud:</p>
+<div>
+    <p style="text-align : center">:cloud:SNS:cloud:</p>
 </div>
 
 <a href="https://www.instagram.com/gyeongmin_kwon___/" target="_blank">
