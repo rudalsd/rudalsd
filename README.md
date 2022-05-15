@@ -28,9 +28,6 @@ I enjoy dancing, hiking and gaming.:video_game:
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
 
-<div>
-    <span style="color:red">내용</span>
-</div>
 <!--
 **rudalsd/rudalsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
