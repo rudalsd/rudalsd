@@ -31,6 +31,9 @@ I enjoy dancing, hiking and gaming.:video_game:
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 </div>
 
+
+![rudalsd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudalsd&show_icons=true&theme=dracula)
+
 <!--
 **rudalsd/rudalsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
