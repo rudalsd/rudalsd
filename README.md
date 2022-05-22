@@ -10,6 +10,9 @@ I enjoy dancing, hiking and gaming.:video_game:
     <a href="https://www.instagram.com/gyeongmin_kwon___/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
     </a>
+    <a href="https://rudalsd.tistory.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=Tstory&logoColor=white"/>
+    </a>
     <br><br><br>
     :books:Tech Stack:books:
     <br><br>
