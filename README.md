@@ -3,7 +3,7 @@
     
 👋 Hi there! I'm _**Embedded Developer**_ using Linux.😄
 
-I enjoy dancing, hiking and gaming.:video_game:
+I enjoy dancing, running and gaming.:video_game:
     <br><br><br><br>
     :cloud:SNS:cloud:
     <br><br>
