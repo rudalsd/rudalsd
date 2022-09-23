@@ -39,9 +39,9 @@ I enjoy dancing, running and gaming.:video_game:
 </div>
 
 
-![rudalsd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudalsd&show_icons=true&theme=dracula)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudalsd)](https://solved.ac/rudalsd)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rudalsd&theme=cold)
+![rudalsd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudalsd&show_icons=true&theme=dracula)
 
 <!--
 **rudalsd/rudalsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
